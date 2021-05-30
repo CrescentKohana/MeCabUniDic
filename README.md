@@ -4,6 +4,7 @@ This add-on adds support for the UniDic Japanese dictionary for the use by other
 
 ## Notes / Changelog
 
+- [Original repository (ianki/MecabUnidic)](https://github.com/ianki/MecabUnidic)
 - Updated old UniDic (ver.2016.3) to the latest at the time of writing: UniDic 3.1.0 (2021-04-01)
 - Updated Windows and Unix binaries of MeCab from 0.98pre3 to 0.996
 
