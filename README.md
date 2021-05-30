@@ -2,6 +2,10 @@
 
 This add-on adds support for the UniDic Japanese dictionary which can be used by other add-ons such as [MorphMan](https://github.com/landonepps/MorphMan21).
 
+## Usage
+
+**Download the latest release [here](https://github.com/Luukuton/MecabUnidic/releases/tag/v1.0)** and extract it to the Anki's add-on directory (`Anki2\addons21`).
+
 ## Notes / Changelog
 
 - [Original repository (ianki/MecabUnidic)](https://github.com/ianki/MecabUnidic)
