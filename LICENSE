@@ -1,0 +1,4 @@
+The add-on itself is AGPL3, with the following third party components included:
+
+- mecab (GPL)
+- mecab unidic (GPL / LGPL / BSD)
