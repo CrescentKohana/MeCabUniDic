@@ -15,3 +15,12 @@ This add-on adds support for the UniDic Japanese dictionary which can be used by
 ## Libraries used
 - [UniDic 3.1.0 (2021-04-01)](https://unidic.ninjal.ac.jp/download#unidic_csj) for modern spoken language (現代話し言葉).
 - [MeCab 0.996 (2013-02-18)](https://taku910.github.io/mecab/)
+
+## Binary sources in support dir
+
+- **UniDic**: char.bin, dicrc, matrix.bin, model.bin, sys.dic, unk.dic
+  - Binaries on the website.
+- **MeCab Windows release**: mecab.exe, libmecab.dll
+  - Binaries on the website.
+- **MeCab Linux build**: mecab, mecab.lin, libmecab.so.2
+  - Built by me from the source on the website.
