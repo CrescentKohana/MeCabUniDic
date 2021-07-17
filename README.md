@@ -8,11 +8,21 @@ Support for Windows, Linux and macOS.
 
 **Download the latest release [here](https://github.com/Luukuton/MecabUnidic/releases/tag/v1.0)** and extract it to the Anki's add-on directory (`Anki2\addons21`).
 
+## Compiling release
+
+- `git clone` this repository
+
+- Get files from [support/Windows](support/Windows), [support/Linux](support/Linux) or [support/macOS](support/macOS) and place them to the root of [support](support). Those directories can now be deleted.
+
+- Get `dicrc`, `char.bin`, `matrix.bin`, `model.bin`, `sys.dic` and `unk.dic` from [unidic-csj-x.y.z.zip](https://unidic.ninjal.ac.jp/download) and place them to the same support directory.
+
+- Move the whole cloned directory to Anki's addon directory.
+
 ## Notes / Changelog
 
 - [Original repository (ianki/MecabUnidic)](https://github.com/ianki/MecabUnidic)
 - Updated old UniDic (ver.2016.3) to the latest at the time of writing: UniDic 3.1.0 (2021-04-01)
-- Updated Windows and Unix binaries of MeCab from 0.98pre3 to 0.996
+- Updated Windows, Linux and macOS binaries of MeCab from 0.98pre3 to 0.996
 
 ## Libraries used
 
