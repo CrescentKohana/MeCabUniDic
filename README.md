@@ -4,6 +4,8 @@ This add-on adds support for the UniDic Japanese dictionary which can be used by
 
 ## Usage
 
+Support for Windows, Linux and macOS.
+
 **Download the latest release [here](https://github.com/Luukuton/MecabUnidic/releases/tag/v1.0)** and extract it to the Anki's add-on directory (`Anki2\addons21`).
 
 ## Notes / Changelog
@@ -13,14 +15,9 @@ This add-on adds support for the UniDic Japanese dictionary which can be used by
 - Updated Windows and Unix binaries of MeCab from 0.98pre3 to 0.996
 
 ## Libraries used
+
 - [UniDic 3.1.0 (2021-04-01)](https://unidic.ninjal.ac.jp/download#unidic_csj) for modern spoken language (現代話し言葉).
 - [MeCab 0.996 (2013-02-18)](https://taku910.github.io/mecab/)
-
-## Binary sources in support dir
-
-- **UniDic**: char.bin, dicrc, matrix.bin, model.bin, sys.dic, unk.dic
-  - Binaries on the website.
-- **MeCab Windows release**: mecab.exe, libmecab.dll
-  - Binaries on the website.
-- **MeCab Linux build**: mecab, mecab.lin, libmecab.so.2
-  - Built by me from the source on the website.
+  - [MeCab Windows](support/Windows) Binaries from the website
+  - [MeCab Linux](support/Linux): Built by @Luukuton from the source code on the website
+  - [MeCab macOS](support/Linux): Built by @kebifurai from the source code on the website
