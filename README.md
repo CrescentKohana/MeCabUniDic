@@ -6,7 +6,7 @@ This add-on adds support for the UniDic Japanese dictionary which can be used by
 
 Support for Windows, Linux and macOS.
 
-**Download the latest release [here](https://github.com/Luukuton/MecabUnidic/releases/tag/v1.2.1)** and extract it to the Anki's add-on directory (`Anki2\addons21`).
+**Download the latest release [here](https://github.com/Luukuton/MecabUnidic/releases/latest)** and extract it to the Anki's add-on directory (`Anki2\addons21`).
 
 ## Compiling release
 
