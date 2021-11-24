@@ -1,0 +1,11 @@
+# IDEs and Editors
+/.idea
+/.vscode
+
+# UniDic files
+char.bin
+dicrc
+matrix.bin
+model.bin
+sys.dic
+unk.dic
